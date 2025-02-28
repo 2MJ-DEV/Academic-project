@@ -1,13 +1,18 @@
-import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./pages/Home";
+import Navbar from "./Components/NavBar";
 
-const App = (props) => {
+function App() {
   return (
-    <div className='flex justify-center items-center min-h-screen bg-blue-900'>
-      <h1 className='text-3xl font-bold underline text-white'>
-        Template works well
-      </h1>
-    </div>
+    <Router>
+      <div className="">
+	  <Navbar />
+      <Routes>
+        <Route path="./pages/Home" exact component={Home} />
+      </Routes>
+	  </div>
+    </Router>
   );
-};
+}
 
 export default App;
