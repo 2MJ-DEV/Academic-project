@@ -56,6 +56,9 @@ npm run dev
 ## 📜 Licence
 Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
+## 📖 Wiki
+ [Consulter le Wiki du projet](https://github.com/2MJ-DEV/Academic-project/wiki)
+
 ## 👨‍💻 Contributeurs
 - **Jules MUKADI** - Développeur principal.
 
