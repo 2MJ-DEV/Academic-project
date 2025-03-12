@@ -9,6 +9,16 @@ Conçue pour être minimaliste et réactive, elle assure une utilisation rapide 
 - 🔔 **Notification** : Alerte envoyée aux hôpitaux et ambulances les plus proches.
 - 🏥 **Liste des hôpitaux** : Affichage des établissements de santé à proximité.
 
+## 📱 Côté patient (mobile – React Native)  
+- Déclenchement d’une alerte avec localisation GPS.  
+- Sélection du type d’urgence.  
+- Envoi d’un message aux secours.  
+
+## 🏥 Côté hôpital (web – React.js)  
+- Réception et gestion des alertes en temps réel.  
+- Affichage de la localisation sur Google Maps.  
+- Communication avec le patient via messagerie.
+
 ## 🛠️ Technologies utilisées
 - **Frontend** : React Native (Interface mobile), React.js (Interface web)
 - **Backend** : Node.js avec Express
