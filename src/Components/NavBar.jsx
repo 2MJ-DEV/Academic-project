@@ -46,9 +46,6 @@ const Navbar = () => {
 
                                 <span className="ms-3 text-xl font-bold">Urgences</span>
                             </a>
-                            <div className=" flex justify-center items-center">
-                            <input className="h-10 border rounded-lg" type="search" name="" id="" />
-                            </div>
                         </li>
 
                         {/* Users */}
