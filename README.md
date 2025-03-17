@@ -1,7 +1,7 @@
 # 🚑 Système d’Alerte pour les Urgences
 
 Une application permettant d’envoyer une alerte géolocalisée aux hôpitaux et ambulances les plus proches en un clic. 
-Conçue pour être minimaliste et réactive, elle assure une utilisation rapide et efficace en situation d’urgence.
+Conçue pour être minimaliste et réactive, elle assure une utilisation rapide et efficace en situation d’urgence...
 
 ## 📌 Fonctionnalités
 - 📍 **Bouton d’urgence** : Envoi instantané d’une alerte.
